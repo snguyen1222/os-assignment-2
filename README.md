@@ -42,8 +42,12 @@ P1, P3, P4, P0, P2
 
 When examined, P0 and P2 resulted in false, therefore are in wait until the end (P0 then P2).
 
-### matrix.txt
+# matrix.txt
 
-010200302211002
-753322902222433
-332
+The data file contains matrices from the given example:
+
+>010200302211002
+>
+>753322902222433
+>
+>332
