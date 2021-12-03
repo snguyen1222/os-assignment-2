@@ -41,3 +41,9 @@ P0 and P2 are false and need to be revisited with New Available:
 P1, P3, P4, P0, P2
 
 When examined, P0 and P2 resulted in false, therefore are in wait until the end (P0 then P2).
+
+### matrix.txt
+
+010200302211002
+753322902222433
+332
